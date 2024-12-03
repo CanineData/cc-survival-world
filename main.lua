@@ -6,4 +6,4 @@ term.setCursorPos(0, 0)
 
 term.setTextColor(colors.white)
 
-print('Hello World')
+print("Hello World")
