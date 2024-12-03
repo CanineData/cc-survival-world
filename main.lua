@@ -2,3 +2,4 @@ local fileURLBase = "https://raw.githubusercontent.com/CanineData/cc-survival-wo
 
 term.clear()
 term.setCursorPos(0, 0)
+term.setBackgroundColor(256)
